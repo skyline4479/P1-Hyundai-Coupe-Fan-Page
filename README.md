@@ -27,7 +27,7 @@ Syntax error occured while creating the pages:
 
 
 
-Syntax errors resolved be renaming a html files accordingly to <a href>  in the code.
+Syntax errors resolved be renaming a html files accordingly to href  in the code.
 
 ![syntax error resolved Screenshot 2023-12-22 112454](https://github.com/skyline4479/skyline4479/assets/151556600/94543a14-a0c5-433e-a657-ff80533f4141)
 
