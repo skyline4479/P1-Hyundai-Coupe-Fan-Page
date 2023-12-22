@@ -5,7 +5,7 @@ Hyundai Coupe Evolution History Project Website
 - Engines and Specifications
 - Evolution
 - Feedback
-  
+    ![syntax error Screenshot 2023-12-22 110326](https://github.com/skyline4479/skyline4479/assets/151556600/6762df21-07ac-44e8-93a6-946bbb304f4e)
 
 Syntax error occured while creating the pages:
 - Syntax error occured while creating the pages:Uncaught SyntaxError SyntaxError: Unexpected token 'export'
@@ -25,7 +25,6 @@ Syntax error occured while creating the pages:
     at onDocumentLoad (chromewebdata/(index)꞉2025:11:2289:31)
   No debugger available, can not send 'variables'
 
-   ![syntax error Screenshot 2023-12-22 110326](https://github.com/skyline4479/skyline4479/assets/151556600/6762df21-07ac-44e8-93a6-946bbb304f4e)
 
 
 Syntax errors resolved be renaming a html files accordingly to <a href>  in the code.
