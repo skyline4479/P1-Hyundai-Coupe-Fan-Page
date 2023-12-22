@@ -31,4 +31,12 @@ Syntax errors resolved be renaming a html files accordingly to href  in the code
 
 ![syntax error resolved Screenshot 2023-12-22 112454](https://github.com/skyline4479/skyline4479/assets/151556600/94543a14-a0c5-433e-a657-ff80533f4141)
 
+Navigation bar completed with separate pages for each different topic to be covered.
+
+![home Screenshot 2023-12-22 134036](https://github.com/skyline4479/skyline4479/assets/151556600/1f733356-13f2-4a75-ad9f-a1a2b528f398)
+![history Screenshot 2023-12-22 134109](https://github.com/skyline4479/skyline4479/assets/151556600/fa169940-a1dd-45ed-8435-cb1b3a8fa19e)
+![spec Screenshot 2023-12-22 134138](https://github.com/skyline4479/skyline4479/assets/151556600/45e96b8a-6a15-49e7-a15b-43f59ca68d81)
+![evolution Screenshot 2023-12-22 134157](https://github.com/skyline4479/skyline4479/assets/151556600/a5b42a62-8e70-4b6f-a7a6-771111db02d8)
+![feedback Screenshot 2023-12-22 134215](https://github.com/skyline4479/skyline4479/assets/151556600/6a69ae04-350c-45e4-bbb7-96a614ddc736)
+
 
