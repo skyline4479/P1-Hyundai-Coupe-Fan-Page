@@ -32,5 +32,3 @@ Syntax errors resolved be renaming a html files accordingly to <a href>  in the 
 ![syntax error resolved Screenshot 2023-12-22 112454](https://github.com/skyline4479/skyline4479/assets/151556600/94543a14-a0c5-433e-a657-ff80533f4141)
 
 
-- 
-- 🌱 I’m currently learning HTML and CSS and JavaScript to create interactive design with slideshow features and much more.
