@@ -1,4 +1,6 @@
-Hyundai Coupe Evolution History Project Website
+<h1> Hyundai Coupe </h1>
+Hyundai Coupe Project Website gives an opportunity to explore history, evolution and specs of the Hyundai Coupe that was manufactured from 1996 to 2009.
+The Hyundai Tiburon is a sport compact coupe produced by Hyundai since 1996. Enthusiasts sometimes refer to the Tiburon by the nickname 'Tib' or 'Tibby'. A very reliable car with stunning looks and fairly good performance overall, but ride a bit harsh over pot-holed roads.. Overall Rating: review by: great drive, looks good, good preformance and not hard on fuel, over all great fun.
 
 - Starting off with creating navigation bar/menu for the website with text aligned to the center:
 - History of Hyundai Coupe
@@ -38,5 +40,7 @@ Navigation bar completed with separate pages for each different topic to be cove
 ![spec Screenshot 2023-12-22 134138](https://github.com/skyline4479/skyline4479/assets/151556600/45e96b8a-6a15-49e7-a15b-43f59ca68d81)
 ![evolution Screenshot 2023-12-22 134157](https://github.com/skyline4479/skyline4479/assets/151556600/a5b42a62-8e70-4b6f-a7a6-771111db02d8)
 ![feedback Screenshot 2023-12-22 134215](https://github.com/skyline4479/skyline4479/assets/151556600/6a69ae04-350c-45e4-bbb7-96a614ddc736)
+
+During the process of creating the content for the website I merged history and evolution page together.
 
 
