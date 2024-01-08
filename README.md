@@ -8,17 +8,17 @@
 <p> Easy navigation between website pages: </p>
 <ul>
     <li> Home </li>
-    <p> Includes heading and brief website description with image of modifoed Hyundai Coupe Gen 2 restyling version </p>
+    <p> Includes heading and brief website description with image of modifoed Hyundai Coupe Gen 2 restyling version. </p>
     <li> History and Evolution </li>
     <p> Includes pictures of Coupe evolution and its progression from the 1996 to 2009. </p>
     <li> Engine and Specs </li>
-    <p> Detailed description of Hyundai Coupe engines and specifications from Gen 1 to Gen 2 </p>
+    <p> Detailed description of Hyundai Coupe engines and specifications from Gen 1 to Gen 2. </p>
     <li> Feedback </li>
-    <p> Opportunity for users to leave a feedback on the website </p>
+    <p> Opportunity for users to leave a feedback on the website. </p>
 </ul>
 <br>
 <h3>Image Gallery</h3>
-<p> Includes 4 interactive photos of each Hyundai Coupe Generation</p>
+<p> Includes 4 interactive photos of each Hyundai Coupe Generation. </p>
 <h3> Footer </h3>
 <p> Footer on the feedback page includes social media - instagram link to follow and links to the information sources. </p>
 <hr>
