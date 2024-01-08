@@ -1,7 +1,8 @@
 <h1> Hyundai Coupe </h1>
-Hyundai Coupe Project Website gives an opportunity to explore history, evolution and specs of the Hyundai Coupe that was manufactured from 1996 to 2009.
-The Hyundai Tiburon is a sport compact coupe produced by Hyundai since 1996. Enthusiasts sometimes refer to the Tiburon by the nickname 'Tib' or 'Tibby'. A very reliable car with stunning looks and fairly good performance overall, but ride a bit harsh over pot-holed roads.. Overall Rating: review by: great drive, looks good, good preformance and not hard on fuel, over all great fun.
 
+<p>Hyundai Coupe Project Website gives an opportunity to explore history, evolution and specs of the Hyundai Coupe that was manufactured from 1996 to 2009.</p>
+<p>The Hyundai Tiburon is a sport compact coupe produced by Hyundai since 1996. Enthusiasts sometimes refer to the Tiburon by the nickname 'Tib' or 'Tibby'. A very reliable car with stunning looks and fairly good performance overall, but ride a bit harsh over pot-holed roads.. Overall Rating: review by: great drive, looks good, good preformance and not hard on fuel, over all great fun.</p>
+<hr>
 - Starting off with creating navigation bar/menu for the website with text aligned to the center:
 - History of Hyundai Coupe
 - Engines and Specifications
