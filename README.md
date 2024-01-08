@@ -4,16 +4,25 @@
 <p>The Hyundai Tiburon is a sport compact coupe produced by Hyundai since 1996. Enthusiasts sometimes refer to the Tiburon by the nickname 'Tib' or 'Tibby'. A very reliable car with stunning looks and fairly good performance overall, but ride a bit harsh over pot-holed roads.. Overall Rating: review by: great drive, looks good, good preformance and not hard on fuel, over all great fun.</p>
 <hr>
 <h2> Features </h2>
-<h3>Navigation Menu</h3>
-<p>Easy navigation between website pages:</p>
+<h3> Navigation Menu </h3>
+<p> Easy navigation between website pages: </p>
 <ul>
-    <li>Home</li>
-    <li>History and Evolution</li>
-    <li>Engine and Specs</li>
-    <li>Feedback</li>
-    <li
+    <li> Home </li>
+    <p> Includes heading and brief website description with image of modifoed Hyundai Coupe Gen 2 restyling version </p>
+    <li> History and Evolution </li>
+    <p> Includes pictures of Coupe evolution and its progression from the 1996 to 2009. </p>
+    <li> Engine and Specs </li>
+    <p> Detailed description of Hyundai Coupe engines and specifications from Gen 1 to Gen 2 </p>
+    <li> Feedback </li>
+    <p> Opportunity for users to leave a feedback on the website </p>
 </ul>
+<br>
+<h3>Image Gallery</h3>
+<p> Includes 4 interactive photos of each Hyundai Coupe Generation</p>
+<h3> Footer </h3>
+<p> Footer on the feedback page includes social media - instagram link to follow and links to the information sources. </p>
 <hr>
+
 - Starting off with creating navigation bar/menu for the website with text aligned to the center:
 - History of Hyundai Coupe
 - Engines and Specifications
