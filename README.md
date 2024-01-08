@@ -4,11 +4,15 @@
 <p>The Hyundai Tiburon is a sport compact coupe produced by Hyundai since 1996. Enthusiasts sometimes refer to the Tiburon by the nickname 'Tib' or 'Tibby'. A very reliable car with stunning looks and fairly good performance overall, but ride a bit harsh over pot-holed roads.. Overall Rating: review by: great drive, looks good, good preformance and not hard on fuel, over all great fun.</p>
 <hr>
 <h2> Features </h2>
-Navigation Menu - Easy navigation between website pages:
--Home
--History and Evolution
--Engine and Specs
--Feedback
+<h3>Navigation Menu</h3>
+<p>Easy navigation between website pages:</p>
+<ul>
+    <li>Home</li>
+    <li>History and Evolution</li>
+    <li>Engine and Specs</li>
+    <li>Feedback</li>
+    <li
+</ul>
 <hr>
 - Starting off with creating navigation bar/menu for the website with text aligned to the center:
 - History of Hyundai Coupe
