@@ -30,6 +30,11 @@
     <li> GitHub used to host the code and submit the project. </li>
 </ul>
 <hr>
+<h3>Credits</h3>
+<ul>
+    <li>Specifications and engine info: https://autoboom.co.il/en/catalog/cars/hyundai/coupe/</li>
+    <li>Images:  google.com</li>
+</ul>
 
 - Starting off with creating navigation bar/menu for the website with text aligned to the center:
 - History of Hyundai Coupe
@@ -71,5 +76,9 @@ Navigation bar completed with separate pages for each different topic to be cove
 ![feedback Screenshot 2023-12-22 134215](https://github.com/skyline4479/skyline4479/assets/151556600/6a69ae04-350c-45e4-bbb7-96a614ddc736)
 
 During the process of creating the content for the website I merged history and evolution page together.
+<hr>
+Added content to the pages using the information from the https://autoboom.co.il/en/catalog/cars/hyundai/coupe/ and google images.
+Also created tables to arrange the contents of the specifications of different engines of Hyundai Coupe through its evolution.
+
 
 
