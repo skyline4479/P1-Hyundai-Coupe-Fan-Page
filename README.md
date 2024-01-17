@@ -22,6 +22,14 @@
 <h3> Footer </h3>
 <p> Footer on the feedback page includes social media - instagram link to follow and links to the information sources. </p>
 <hr>
+Technologies used:
+<ul>
+    <li> HTML was used for structure of the website. </li>
+    <li> CSS was used to add design to the website. </li>
+    <li> VS Code was used to write and test the code. </li>
+    <li> GitHub used to host the code and submit the project. </li>
+</ul>
+<hr>
 
 - Starting off with creating navigation bar/menu for the website with text aligned to the center:
 - History of Hyundai Coupe
