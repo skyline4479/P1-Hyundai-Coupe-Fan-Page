@@ -34,7 +34,7 @@
 <ul>
     <li>Specifications and engine info: https://autoboom.co.il/en/catalog/cars/hyundai/coupe/</li>
     <li>Images:  google.com</li>
-    <li>https://www.w3schools.com/howto/howto_css_image_gallery.asp</li>
+    <li> Responsive image gallery: https://www.w3schools.com/howto/howto_css_image_gallery.asp</li>
 </ul>
 <hr>
 
