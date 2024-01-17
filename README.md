@@ -78,6 +78,9 @@ Navigation bar completed with separate pages for each different topic to be cove
 During the process of creating the content for the website I merged history and evolution page together.
 <hr>
 Added content to the pages using the information from the https://autoboom.co.il/en/catalog/cars/hyundai/coupe/ and google images.
+<br>
+![mainb page readme Screenshot 2024-01-17 210228](https://github.com/skyline4479/skyline4479/assets/151556600/bcbd31f0-d584-43fc-82ff-3954e0713f86)
+
 Also created tables to arrange the contents of the specifications of different engines of Hyundai Coupe through its evolution.
 
 
