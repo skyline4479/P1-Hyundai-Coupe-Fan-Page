@@ -85,6 +85,8 @@ Added content to the pages using the information from the https://autoboom.co.il
 <hr>
 Responsive image gallery code used from: https://www.w3schools.com/howto/howto_css_image_gallery.asp
 <br>
+![gallery Screenshot 2024-01-17 213947](https://github.com/skyline4479/skyline4479/assets/151556600/a81f9fc6-f574-40df-bcaf-0c232dd408d7)
+
 Images were uploaded to imgur.com to create html code and used it for website content.
 
 Also created tables to arrange the contents of the specifications of different engines of Hyundai Coupe through its evolution.
