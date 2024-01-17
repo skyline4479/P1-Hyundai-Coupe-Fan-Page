@@ -22,7 +22,7 @@
 <h3> Footer </h3>
 <p> Footer on the feedback page includes social media - instagram link to follow and links to the information sources. </p>
 <hr>
-Technologies used:
+<h3>Technologies used:</h3>
 <ul>
     <li> HTML was used for structure of the website. </li>
     <li> CSS was used to add design to the website. </li>
