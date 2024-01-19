@@ -1,7 +1,5 @@
-h1, h2, h3{
-  font-family: Lucida Handwriting;
-  text-align: center;  
-  color: rgb(17, 109, 109);
+nav{
+  text-align:center;
 }
 
 #query{
@@ -9,8 +7,10 @@ h1, h2, h3{
   background-color: rgb(17, 109, 109);
 }
 
-nav{
-  text-align:center;
+h1, h2, h3{
+  font-family: Lucida Handwriting;
+  text-align: center;  
+  color: rgb(17, 109, 109);
 }
 
 .center{
@@ -55,7 +55,7 @@ div.gallery img {
   height: auto;
 }
 
-div.desc {
+.description {
   padding: 15px;
   text-align: center;
 }
