@@ -19,6 +19,8 @@
 <br>
 <h3>Image Gallery</h3>
 <p> Includes 4 interactive photos of each Hyundai Coupe Generation. </p>
+<h3>Accessibility in HTML using aria-label attribute</h3>
+<p>Important feature for people who use screen readers or visually impaired users.</p>
 <h3> Footer </h3>
 <p> Footer on the feedback page includes social media - instagram link to follow and links to the information sources. </p>
 <hr>
