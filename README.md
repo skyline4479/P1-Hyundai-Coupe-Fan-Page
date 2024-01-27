@@ -92,7 +92,7 @@ Responsive image gallery code used from: https://www.w3schools.com/howto/howto_c
 
 Images were uploaded to imgur.com to create html code and used it for website content.
 
-Also created tables to arrange the contents of the specifications of different engines of Hyundai Coupe through its evolution.
+Also created tables to arrange the contents of the specifications of different engines of Hyundai Coupe through its evolution and footer with link to more information about specifications.
 
 
 
